@@ -1,0 +1,91 @@
+<!doctype html>
+<html lang="zh-Hant-HK">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="color-scheme" content="light">
+  <meta http-equiv="Content-Security-Policy" content="default-src 'none'; script-src 'unsafe-inline'; style-src 'unsafe-inline'; connect-src 'none'; base-uri 'none'; form-action 'none'">
+  <title>iPhone HTML 開啟測試</title>
+  <style>
+    * { box-sizing: border-box; }
+    body { margin: 0; background: #fff; color: #202124; font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif; font-size: 17px; line-height: 1.65; }
+    main { max-width: 600px; margin: 0 auto; padding: 24px 20px 40px; }
+    h1 { margin: 0 0 8px; font-size: 26px; line-height: 1.35; }
+    h2 { margin: 0 0 12px; font-size: 20px; }
+    p { margin: 8px 0; }
+    section { margin-top: 24px; padding-top: 20px; border-top: 1px solid #ddd; }
+    .muted { color: #565b63; font-size: 15px; }
+    .status { margin: 18px 0 0; padding: 14px; border: 1px solid #b8bdc5; border-radius: 8px; font-weight: 700; }
+    .status.ready { color: #14532d; border-color: #7faa8b; background: #f5fbf6; }
+    button { min-height: 48px; min-width: 84px; padding: 10px 18px; border: 1px solid #5c6572; border-radius: 8px; background: #fff; color: #202124; font: inherit; font-weight: 600; cursor: pointer; touch-action: manipulation; }
+    button:active { background: #edf0f4; }
+    button:focus-visible { outline: 3px solid #2368c4; outline-offset: 3px; }
+    .choices { display: flex; gap: 12px; margin: 12px 0; }
+    .result { min-height: 28px; font-weight: 700; }
+    ol { margin: 8px 0; padding-left: 24px; }
+    li { margin: 8px 0; }
+  </style>
+</head>
+<body>
+  <main>
+    <h1>iPhone HTML 開啟測試</h1>
+    <p class="muted">只測試開啟方式、JavaScript 同按鈕；唔係正式 EPA 題庫。</p>
+
+    <p id="js-status" class="status" role="status">JavaScript 尚未執行</p>
+    <noscript><p>目前開啟環境未能執行 JavaScript。你可能仍然睇到內容，但按鈕唔會有反應。</p></noscript>
+
+    <section aria-labelledby="touch-title">
+      <h2 id="touch-title">1. 試按一下</h2>
+      <button id="count-button" type="button">按一下 +1</button>
+      <p aria-live="polite">已按次數：<strong id="count">0</strong></p>
+    </section>
+
+    <section aria-labelledby="question-title">
+      <h2 id="question-title">2. 試答一題</h2>
+      <p>1 + 1 = ?</p>
+      <div class="choices">
+        <button id="answer-two" type="button" aria-label="答案 2">2</button>
+        <button id="answer-three" type="button" aria-label="答案 3">3</button>
+      </div>
+      <p id="answer-result" class="result" aria-live="polite">尚未作答</p>
+      <p class="muted">呢題係測試用假題，唔涉及 EPA 內容。</p>
+    </section>
+
+    <section aria-labelledby="instructions-title">
+      <h2 id="instructions-title">點樣試</h2>
+      <ol>
+        <li>將呢個 <strong>.html</strong> 檔案儲存到 iPhone「檔案」App。</li>
+        <li>喺「檔案」搵到佢，再輕點開啟。</li>
+        <li>睇上面有冇變成「JavaScript 已執行」，再試按 +1 同答案按鈕。</li>
+      </ol>
+      <p>如果只見到預覽、仍顯示「JavaScript 尚未執行」，或者按鈕冇反應，請回覆畫面截圖同 iOS 版本。呢個結果只表示目前開啟方式未通過測試，唔代表所有內置方法都唔得。</p>
+      <p class="muted">今次唔測試關閉再開後保存：重新載入就會歸零。檔案冇外部資源、網絡請求、儲存、上傳或資料收集，亦唔需要帳戶、密碼或 API token。</p>
+    </section>
+  </main>
+  <script>
+    (function () {
+      'use strict';
+      var count = 0;
+      var countOutput = document.getElementById('count');
+      var answerOutput = document.getElementById('answer-result');
+
+      document.getElementById('count-button').addEventListener('click', function () {
+        count += 1;
+        countOutput.textContent = String(count);
+      });
+
+      document.getElementById('answer-two').addEventListener('click', function () {
+        answerOutput.textContent = '答啱！1 + 1 = 2。';
+      });
+
+      document.getElementById('answer-three').addEventListener('click', function () {
+        answerOutput.textContent = '答錯，再試一次。';
+      });
+
+      var status = document.getElementById('js-status');
+      status.textContent = 'JavaScript 已執行';
+      status.className = 'status ready';
+    }());
+  </script>
+</body>
+</html>
