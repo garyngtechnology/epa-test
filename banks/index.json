@@ -1,0 +1,15 @@
+{
+  "schemaVersion": 1,
+  "banks": [
+    {
+      "id": "P6-T1-V1",
+      "name": "P6 Term 1 Vocab 1",
+      "topic": "Words we use instead of VERY",
+      "grade": "P6",
+      "term": "T1",
+      "vocab": "V1",
+      "count": 12,
+      "url": "P6-T1-V1.json"
+    }
+  ]
+}

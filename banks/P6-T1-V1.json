@@ -1,0 +1,149 @@
+{
+  "schemaVersion": 1,
+  "id": "P6-T1-V1",
+  "name": "P6 Term 1 Vocab 1",
+  "topic": "Words we use instead of VERY",
+  "grade": "P6",
+  "term": "T1",
+  "vocab": "V1",
+  "source": {
+    "file": "t1v1.jpeg",
+    "verifiedAgainstImage": true,
+    "publicationApproved": false
+  },
+  "records": [
+    {
+      "id": "1",
+      "answer": "scrawny",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "very thin; skinny and bony",
+      "examples": [
+        "John looked terribly scrawny when he was rescued after being trapped in the jungle for three months."
+      ]
+    },
+    {
+      "id": "2",
+      "answer": "malicious",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "very bad/unkind; intended to harm or upset other people",
+      "examples": [
+        "He complained that he'd been receiving malicious phone calls.",
+        "Teasing people for being overweight is malicious."
+      ]
+    },
+    {
+      "id": "3",
+      "answer": "cautious",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "very careful",
+      "examples": [
+        "Most doctors are cautious about advising you to have surgery."
+      ]
+    },
+    {
+      "id": "4",
+      "answer": "impressive",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "very good; fantastic; special",
+      "examples": [
+        "That was an impressive performance from such a young tennis player."
+      ]
+    },
+    {
+      "id": "5",
+      "answer": "furious",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "very angry",
+      "examples": [
+        "Sandy was furious with me for forgetting to pick her up."
+      ]
+    },
+    {
+      "id": "6",
+      "answer": "starving",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "very hungry; famished",
+      "examples": [
+        "I am starving! Is there anything to eat?"
+      ]
+    },
+    {
+      "id": "7",
+      "answer": "adorable",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "very cute",
+      "examples": [
+        "I think it's adorable that your parents still hold hands."
+      ]
+    },
+    {
+      "id": "8",
+      "answer": "petrified",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "very afraid; extremely frightened",
+      "examples": [
+        "I stood petrified as the most enormous dog I've ever seen came bounding up to me."
+      ]
+    },
+    {
+      "id": "9",
+      "answer": "spotless",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "very clean",
+      "examples": [
+        "Mary takes good care of her house. It's spotless everywhere."
+      ]
+    },
+    {
+      "id": "10",
+      "answer": "depressed",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "extremely unhappy / sad",
+      "examples": [
+        "She became deeply depressed when her husband died."
+      ]
+    },
+    {
+      "id": "11",
+      "answer": "colossal",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "very large; enormous",
+      "examples": [
+        "They were asking a colossal amount of money for the house."
+      ]
+    },
+    {
+      "id": "12",
+      "answer": "courageous",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "very brave",
+      "examples": [
+        "It was courageous of her to point out the managing director's mistake."
+      ]
+    }
+  ]
+}
