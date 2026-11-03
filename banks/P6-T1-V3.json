@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "P6-T1-V3",
+  "name": "P6 Term 1 Vocab 3",
+  "topic": "Amazing animals",
+  "grade": "P6",
+  "term": "T1",
+  "vocab": "V3",
+  "source": {
+    "file": "image(20261103-144717).png",
+    "verifiedAgainstImage": true,
+    "publicationApproved": false
+  },
+  "records": [
+    {
+      "id": "1",
+      "answer": "stripe",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "a long, narrow band or mark, differing in color, texture, or material from the surrounding area",
+      "examples": [
+        "The ribbon is red with a central stripe of blue."
+      ]
+    },
+    {
+      "id": "2",
+      "answer": "fur",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "the short, fine, soft hair of certain animals",
+      "examples": [
+        "The cat has black-and-white fur."
+      ]
+    },
+    {
+      "id": "3",
+      "answer": "creature",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "an animal, as distinct from a human being",
+      "examples": [
+        "The cute little dragon with a yellow horn on its head is an imaginary creature in one of my adventurous stories."
+      ]
+    },
+    {
+      "id": "4",
+      "answer": "protect",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "v.",
+      "definition": "keep safe from harm or injury",
+      "examples": [
+        "No matter what happens, I will fight to protect my family."
+      ]
+    },
+    {
+      "id": "5",
+      "answer": "damage",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "v.",
+      "definition": "to harm or spoil something",
+      "examples": [
+        "Many homes were damaged or completely destroyed in the fire."
+      ]
+    },
+    {
+      "id": "6",
+      "answer": "disappear",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "v.",
+      "definition": "be lost or go missing",
+      "examples": [
+        "The two men disappeared around the corner and have never been seen since then."
+      ]
+    },
+    {
+      "id": "7",
+      "answer": "extinct",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "no longer in existence; having ended or died out",
+      "examples": [
+        "Dinosaurs have been extinct for millions of years."
+      ]
+    },
+    {
+      "id": "8",
+      "answer": "tale",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "a story that relates the details of some real or imaginary event, incident, or case",
+      "examples": [
+        "The students were sharing folk tales from their countries in class today."
+      ]
+    },
+    {
+      "id": "9",
+      "answer": "survival skills",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n. phr.",
+      "definition": "techniques that a person may use in order to remain alive",
+      "examples": [
+        "The soldiers were well-grounded in survival skills so they had no problem living in the wild for months."
+      ]
+    },
+    {
+      "id": "10",
+      "answer": "frighten",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "v.",
+      "definition": "make (someone) afraid or anxious",
+      "examples": [
+        "Don't put your prices too high or you'll frighten the customers off."
+      ]
+    },
+    {
+      "id": "11",
+      "answer": "lift",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "v.",
+      "definition": "raise to a higher position or level",
+      "examples": [
+        "He lifted the box carefully down from the shelf."
+      ]
+    },
+    {
+      "id": "12",
+      "answer": "wag",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "v.",
+      "definition": "to move from side to side, forward and backward, or up and down",
+      "examples": [
+        "Dogs wag their tails when they are pleased."
+      ]
+    }
+  ]
+}

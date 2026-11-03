@@ -1,0 +1,148 @@
+{
+  "schemaVersion": 1,
+  "id": "P6-T1-V4",
+  "name": "P6 Term 1 Vocab 4",
+  "topic": "Working outdoors",
+  "grade": "P6",
+  "term": "T1",
+  "vocab": "V4",
+  "source": {
+    "file": "image(20261103-144801).png",
+    "verifiedAgainstImage": true,
+    "publicationApproved": false
+  },
+  "records": [
+    {
+      "id": "1",
+      "answer": "lifeguard",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "a person on a beach or at a swimming pool whose job is to make sure that the swimmers are safe and save them if they are in danger",
+      "examples": [
+        "The lifeguard blew his whistle to stop me from diving from the diving board."
+      ]
+    },
+    {
+      "id": "2",
+      "answer": "marine biologist",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "a scientist who studies life in the sea",
+      "examples": [
+        "One duty of a marine biologist is to study marine life in natural or controlled environment."
+      ]
+    },
+    {
+      "id": "3",
+      "answer": "mechanic",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "someone whose job is repairing the engines of vehicles and other machines",
+      "examples": [
+        "Buying that second-hand car without having it checked by a mechanic first cost us dear."
+      ]
+    },
+    {
+      "id": "4",
+      "answer": "mountain guide",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "a person who leads groups of walkers and climbers",
+      "examples": [
+        "His climbing career began as a young teenager when he followed a mountain guide up a local summit."
+      ]
+    },
+    {
+      "id": "5",
+      "answer": "photojournalist",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "a photographer who creates news articles using mainly photographs",
+      "examples": [
+        "Photojournalist PF Bentley has covered every presidential campaign since 1980."
+      ]
+    },
+    {
+      "id": "6",
+      "answer": "coach",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "someone whose job is to teach people to improve at a sport, or a skill",
+      "examples": [
+        "Our football coach has worked hard to teach the players to have a team spirit."
+      ]
+    },
+    {
+      "id": "7",
+      "answer": "look after",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "phrasal verb",
+      "definition": "to take care of",
+      "examples": [
+        "We look after the neighbours' cat while they're away."
+      ]
+    },
+    {
+      "id": "8",
+      "answer": "mural",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "a large picture that has been painted on the wall",
+      "examples": [
+        "He painted a big mural on the side of the building."
+      ]
+    },
+    {
+      "id": "9",
+      "answer": "wonder",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "v.",
+      "definition": "to want to know or be curious about",
+      "examples": [
+        "Shouldn't you phone home? Your parents will be wondering where you are."
+      ]
+    },
+    {
+      "id": "10",
+      "answer": "technology",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "the use of scientific knowledge or processes in business, industry, etc.",
+      "examples": [
+        "Technology provides us with plenty of conveniences and gives us the ability to do things that weren’t possible before."
+      ]
+    },
+    {
+      "id": "11",
+      "answer": "ranger",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "a person whose job is to protect a forest or natural park",
+      "examples": [
+        "We were fortunate enough to get a tour from a ranger when we visited Yellowstone National Park."
+      ]
+    },
+    {
+      "id": "12",
+      "answer": "popular",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "liked, enjoyed, or supported by many people",
+      "examples": [
+        "That song was popular with people from my father's generation."
+      ]
+    }
+  ]
+}
