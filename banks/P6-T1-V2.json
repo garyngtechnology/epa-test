@@ -1,0 +1,151 @@
+{
+  "schemaVersion": 1,
+  "id": "P6-T1-V2",
+  "name": "P6 Term 1 Vocab 2",
+  "topic": "A good start",
+  "grade": "P6",
+  "term": "T1",
+  "vocab": "V2",
+  "source": {
+    "file": "試卷寶-英文生字_v1-2.pdf",
+    "page": 2,
+    "verifiedAgainstImage": true,
+    "publicationApproved": false
+  },
+  "records": [
+    {
+      "id": "1",
+      "answer": "on time",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "phrase",
+      "definition": "not late; punctual",
+      "examples": [
+        "Travelers can confidently book with this airline, knowing their planes always arrive on time."
+      ]
+    },
+    {
+      "id": "2",
+      "answer": "bench",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "a long seat for two or more people",
+      "examples": [
+        "He was sitting alone on a park bench beside the duck pond feeding the pigeons."
+      ]
+    },
+    {
+      "id": "3",
+      "answer": "intention",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "a decided course of action; plan",
+      "examples": [
+        "He seemed to think that I was trying to cause problems, but that was never my intention."
+      ]
+    },
+    {
+      "id": "4",
+      "answer": "equipment",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "things made, or used, for a particular activity; a set of tools",
+      "examples": [
+        "Ice skates, footballs, and golf clubs are different kinds of sporting equipment."
+      ]
+    },
+    {
+      "id": "5",
+      "answer": "special",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "different from others",
+      "examples": [
+        "John was over the moon when his father gave him a special gift for his 18th birthday."
+      ]
+    },
+    {
+      "id": "6",
+      "answer": "material",
+      "alternatives": [
+        "materials"
+      ],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "anything used for building or making something else",
+      "examples": [
+        "The materials for the tree house included wood, metal, and rope."
+      ]
+    },
+    {
+      "id": "7",
+      "answer": "take part in",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "v. phr.",
+      "definition": "be active in; to join",
+      "examples": [
+        "Many children like to take part in team sports because it allows them to play with their friends."
+      ]
+    },
+    {
+      "id": "8",
+      "answer": "discover",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "v.",
+      "definition": "to find or see before anyone else",
+      "examples": [
+        "Hopefully, the scientist will soon discover a cure for cancer."
+      ]
+    },
+    {
+      "id": "9",
+      "answer": "simple",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "adj.",
+      "definition": "easy to do or understand",
+      "examples": [
+        "Last year I thought this simple math problem was difficult!"
+      ]
+    },
+    {
+      "id": "10",
+      "answer": "goal",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "an aim or purpose",
+      "examples": [
+        "They have set themselves a series of goals to achieve by the end of the month."
+      ]
+    },
+    {
+      "id": "11",
+      "answer": "event",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "n.",
+      "definition": "anything that happens, esp. something important or unusual",
+      "examples": [
+        "My school is holding a range of events to celebrate its 30th anniversary."
+      ]
+    },
+    {
+      "id": "12",
+      "answer": "spend time",
+      "alternatives": [],
+      "promptType": "meaning",
+      "partOfSpeech": "phrase",
+      "definition": "to use time doing something or being somewhere",
+      "examples": [
+        "To me my family is more important than anything, so I love spending time with them."
+      ]
+    }
+  ]
+}
